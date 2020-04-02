@@ -1,0 +1,34 @@
+{
+  "name": "nyn",
+  "version": "0.0.1",
+  "description": "Nurture Your Nerd",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurtureyournerd/node-nyn.git"
+  },
+  "keywords": [
+    "lesson",
+    "tutorial",
+    "example",
+    "coding",
+    "programming",
+    "web",
+    "dev",
+    "development",
+    "app",
+    "learn",
+    "teach",
+    "hack",
+    "fun"
+  ],
+  "author": "Charlie McClung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nurtureyournerd/node-nyn/issues"
+  },
+  "homepage": "https://github.com/nurtureyournerd/node-nyn#readme"
+}
